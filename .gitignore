@@ -1,0 +1,14 @@
+#gradle files
+/build
+/.gradle
+
+# idea files
+/.idea/*
+!/.idea/copyright/
+!/.idea/dictionaries/
+!/.idea/codeStyles/
+
+#openrndr files
+/video
+/ShaderError.txt
+/ffmpegOutput.txt
